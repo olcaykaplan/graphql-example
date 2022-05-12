@@ -1,6 +1,6 @@
 ## Example 1
 There are 4 types (User, Event, Location, Participant)
-And they are connection between each other on ids
+And they connected to each other on ids
 
 ```javascript
 //example query
